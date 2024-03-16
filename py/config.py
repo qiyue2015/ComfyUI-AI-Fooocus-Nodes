@@ -85,7 +85,7 @@ default_parameters = {
 }  # stop, weight
 
 controlnet_softness=0.25
-path_fooocus_expansion = folder_paths.models_dir+"/prompt_expansion/fooocus_expansion"
+path_fooocus_expansion = folder_paths.models_dir+"/fooocus/fooocus_expansion"
 
 
 
